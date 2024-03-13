@@ -42,6 +42,14 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
   - [IJCAI](#ijcai-2019)
   - [AAAI](#aaai-2019)
 
+- [2018](#2018)
+  - [NeurIPS](#neurips-2018)
+  - [CVPR](#cvpr-2018)
+  - [ECCV](#eccv-2018)
+  - [ICML](#icml-2018)
+  - [IJCAI](#ijcai-2018)
+  - [AAAI](#aaai-2018)
+
 
 
 # 2023
@@ -517,4 +525,53 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - MPD-AL: An Efficient Membrane Potential Driven Aggregate-Label Learning Algorithm for Spiking Neurons [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/3932)]
 
 - Implementation of Boolean AND and OR Logic Gates with Biologically Reasonable Time Constants in Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5147)]
+
+
+# 2018
+
+
+## NeurIPS-2018
+
+
+- Gradient Descent for Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/185e65bc40581880c4f2c82958de8cfe-Abstract.html)] [[arxiv](https://arxiv.org/abs/2310.12985)]
+
+- Hybrid Macro/Micro Level Backpropagation for Training Deep Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/3fb04953d95a94367bb133f862402bce-Abstract.html)] [[arxiv](https://arxiv.org/abs/1805.07866)] [[paper with code](https://paperswithcode.com/paper/hybrid-macromicro-level-backpropagation-for)] [[code](https://github.com/jinyyy666/mm-bp-snn)]
+
+- SLAYER: Spike Layer Error Reassignment in Time [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/82f2b308c3b01637c607ce05f52a2fed-Abstract.html)] [[arxiv](https://arxiv.org/abs/1810.08646)] [[paper with code](https://paperswithcode.com/paper/slayer-spike-layer-error-reassignment-in-time)] [[code](https://bitbucket.org/bamsumit/slayer)]
+
+- Long short-term memory and Learning-to-learn in networks of spiking neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/c203d8a151612acf12457e4d67635a95-Abstract.html)] [[arxiv](https://arxiv.org/abs/1803.09574)] [[paper with code](https://paperswithcode.com/paper/long-short-term-memory-and-learning-to-learn)] [[code](https://github.com/IGITUGraz/LSNN-official)]
+
+- Temporal alignment and latent Gaussian process factor inference in population spike trains [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/d1ff1ec86b62cd5f3903ff19c3a326b2-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/temporal-alignment-and-latent-gaussian)]
+
+
+## CVPR-2018
+
+
+
+## ECCV-2018
+
+
+
+## ICML-2018
+
+
+- Non-linear motor control by local learning in spiking neural networks [[paper](https://proceedings.mlr.press/v80/gilra18a.html)] [[arxiv](https://arxiv.org/abs/1712.10158)] [[paper with code](https://paperswithcode.com/paper/non-linear-motor-control-by-local-learning-in)] [[code](https://github.com/adityagilra/FOLLOWControl)]
+
+
+## IJCAI-2018
+
+
+- Jointly Learning Network Connections and Link Weights in Spiking Neural Networks [[paper](https://www.ijcai.org/proceedings/2018/221)]
+
+- CSNN: An Augmented Spiking based Framework with Perceptron-Inception [[paper](https://www.ijcai.org/proceedings/2018/228)]
+
+- Brain-inspired Balanced Tuning for Spiking Neural Networks [[paper](https://www.ijcai.org/proceedings/2018/229)]
+
+
+## AAAI-2018
+
+
+- A Plasticity-Centric Approach to Train the Non-Differential Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11317)]
+
+- Learning Nonlinear Dynamics in Efficient, Balanced Spiking Networks Using Local Plasticity Rules [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11320)]
 
