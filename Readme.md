@@ -36,16 +36,12 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 - [2019](#2019)
   - [NeurIPS](#neurips-2019)
-  - [CVPR](#cvpr-2019)
-  - [ICCV](#iccv-2019)
   - [ICML](#icml-2019)
   - [IJCAI](#ijcai-2019)
   - [AAAI](#aaai-2019)
 
 - [2018](#2018)
   - [NeurIPS](#neurips-2018)
-  - [CVPR](#cvpr-2018)
-  - [ECCV](#eccv-2018)
   - [ICML](#icml-2018)
   - [IJCAI](#ijcai-2018)
   - [AAAI](#aaai-2018)
@@ -489,12 +485,6 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - Who is Afraid of Big Bad Minima? Analysis of gradient-flow in spiked matrix-tensor models [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/fbad540b2f3b5638a9be9aa6a4d8e450-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/who-is-afraid-of-big-bad-minima-analysis-of-1)] [[code](https://github.com/sphinxteam/spiked_matrix-tensor_T0)]
 
 
-## CVPR-2019
-
-
-
-## ICCV-2019
-
 
 
 ## ICML-2019
@@ -542,14 +532,6 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - Long short-term memory and Learning-to-learn in networks of spiking neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/c203d8a151612acf12457e4d67635a95-Abstract.html)] [[arxiv](https://arxiv.org/abs/1803.09574)] [[paper with code](https://paperswithcode.com/paper/long-short-term-memory-and-learning-to-learn)] [[code](https://github.com/IGITUGraz/LSNN-official)]
 
 - Temporal alignment and latent Gaussian process factor inference in population spike trains [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/d1ff1ec86b62cd5f3903ff19c3a326b2-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/temporal-alignment-and-latent-gaussian)]
-
-
-## CVPR-2018
-
-
-
-## ECCV-2018
-
 
 
 ## ICML-2018
