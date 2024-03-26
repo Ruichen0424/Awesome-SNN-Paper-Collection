@@ -1,6 +1,8 @@
 # Awesome SNN Paper Collection
 This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com/AXYZdong/awesome-snn-conference-paper).
 
+- [2024](#2024)
+  - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
@@ -46,6 +48,56 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
   - [IJCAI](#ijcai-2018)
   - [AAAI](#aaai-2018)
 
+
+
+
+# 2024
+
+
+## AAAI-2024
+
+
+- Enhancing the Robustness of Spiking Neural Networks with Stochastic Gating Mechanisms [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27804)]
+
+- An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27806)] [[arxiv](https://arxiv.org/abs/2303.13077)] [[paper with code](https://paperswithcode.com/paper/improving-the-performance-of-spiking-neural)] [[code](https://github.com/brain-cog-lab/transfer-for-dvs)]
+
+- Gated Attention Coding for Training High-Performance and Efficient Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27816)] [[arxiv](https://arxiv.org/abs/2308.06582)] [[paper with code](https://paperswithcode.com/paper/gated-attention-coding-for-training-high)] [[code](https://github.com/bollossom/GAC)]
+
+- Efficient Spiking Neural Networks with Sparse Selective Activation for Continual Learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27817)]
+
+- Transient Glimpses: Unveiling Occluded Backgrounds through the Spike Camera [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27820)]
+
+- Joint Demosaicing and Denoising for Spike Camera [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27924)]
+
+- DeblurSR: Event-Based Motion Deblurring under the Spiking Representation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28293)] [[arxiv](https://arxiv.org/abs/2303.08977)] [[paper with code](https://paperswithcode.com/paper/deblursr-event-based-motion-deblurring-under)] [[code](https://github.com/chensong1995/deblursr)]
+
+- Point-to-Spike Residual Learning for Energy-Efficient 3D Point Cloud Classification [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28425)]
+
+- Recognizing Ultra-High-Speed Moving Objects with Bio-Inspired Spike Camera [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28579)]
+
+- Optical Flow for Spike Camera with Hierarchical Spatial-Temporal Spike Fusion [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28581)]
+
+- Finding Visual Saliency in Continuous Spike Stream [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28610)] [[arxiv](https://arxiv.org/abs/2403.06233)] [[paper with code](https://paperswithcode.com/paper/finding-visual-saliency-in-continuous-spike)] [[code](https://github.com/bit-vision/svs)]
+
+- Enhancing Training of Spiking Neural Network with Stochastic Latency [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28964)]
+
+- SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28975)] [[arxiv](https://arxiv.org/abs/2308.10873)] [[paper with code](https://paperswithcode.com/paper/spikingbert-distilling-bert-to-train-spiking)] [[code](https://github.com/neurocomplab-psu/spikingbert)]
+
+- Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29066)] [[arxiv](https://arxiv.org/abs/2401.01912)]
+
+- Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29114)] [[arxiv](https://arxiv.org/abs/2312.06372)] [[paper with code](https://paperswithcode.com/paper/ternary-spike-learning-ternary-spikes-for)] [[code](https://github.com/yfguo91/ternary-spike)]
+
+- Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29285)] [[arxiv](https://arxiv.org/abs/2311.09077)] [[paper with code](https://paperswithcode.com/paper/spiking-nerf-representing-the-real-world)] [[code](https://github.com/liaozhanfeng/spiking-nerf)]
+
+- Dynamic Spiking Graph Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29587)] [[arxiv](https://arxiv.org/abs/2401.05373)] [[paper with code](https://paperswithcode.com/paper/dynamic-spiking-graph-neural-networks)]
+
+- Memory-Efficient Reversible Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29616)] [[arxiv](https://arxiv.org/abs/2312.07922)] [[paper with code](https://paperswithcode.com/paper/memory-efficient-reversible-spiking-neural)] [[code](https://github.com/mi804/revsnn)]
+
+- TC-LIF: A Two-Compartment Spiking Neuron Model for Long-Term Sequential Modelling [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29625)] [[arxiv](https://arxiv.org/abs/2308.13250)] [[paper with code](https://paperswithcode.com/paper/tc-lif-a-two-compartment-spiking-neuron-model)] [[code](https://github.com/zhangshimin1/tc-lif)]
+
+- Enhancing Representation of Spiking Neural Networks via Similarity-Sensitive Contrastive Learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29635)]
+
+- Dynamic Reactive Spiking Graph Neural Network [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29640)]
 
 
 # 2023
