@@ -150,6 +150,8 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 - Neural Data Transformer 2: Multi-context Pretraining for Neural Spiking Activity [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fe51de4e7baf52e743b679e3bdba7905-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/neural-data-transformer-2-multi-context)] [[code](https://github.com/joel99/context_general_bci)] [[openview](https://openreview.net/forum?id=CBBtMnlTGq)]
 
+- Direct Training of SNN using Local Zeroth Order Method [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3c5e64f26a97db6a2b0bbb788236431e-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/direct-training-of-snn-using-local-zeroth)] [[code](https://github.com/bhaskarmukhoty/localzo)] [[openview](https://openreview.net/forum?id=eTF3VDH2b6)]
+
 
 ## CVPR-2023
 
@@ -194,6 +196,8 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 - Adaptive Smoothing Gradient Learning for Spiking Neural Networks [[paper](https://proceedings.mlr.press/v202/wang23j.html)]
 
+- A Unified Optimization Framework of ANN-SNN Conversion: Towards Optimal Mapping from Activation Values to Firing Rates [[paper](https://proceedings.mlr.press/v202/jiang23a.html)]
+
 
 ## IJCAI-2023
 
@@ -208,9 +212,13 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 - Spike Count Maximization for Neuromorphic Vision Recognition [[paper](https://www.ijcai.org/proceedings/2023/473)]
 
+- A New ANN-SNN Conversion Method with High Accuracy, Low Latency and Good Robustness [[paper](https://www.ijcai.org/proceedings/2023/342)]
+
 
 ## AAAI-2023
 
+
+- Reducing ANN-SNN Conversion Error through Residual Membrane Potential [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25071)] [[arxiv](https://arxiv.org/abs/2302.02091)] [[paper with code](https://paperswithcode.com/paper/reducing-ann-snn-conversion-error-through)] [[code](https://github.com/hzc1208/ANN2SNN_SRP)]
 
 - Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25073)] [[arxiv](https://arxiv.org/abs/2303.06060)] [[paper with code](https://paperswithcode.com/paper/deep-spiking-neural-networks-with-high)] [[code](https://github.com/grasshlw/snn-neural-similarity)]
 
@@ -335,6 +343,8 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - Self-Supervised Mutual Learning for Dynamic Scene Reconstruction of Spiking Camera [[paper](https://www.ijcai.org/proceedings/2022/396)]
 
 - Recent Advances and New Frontiers in Spiking Neural Networks [[paper](https://www.ijcai.org/proceedings/2022/790)] [[arxiv](https://arxiv.org/abs/2204.07050)] [[paper with code](https://paperswithcode.com/paper/recent-advances-and-new-frontiers-in-spiking)] [[code](https://github.com/thomasaimondy/CogSNN)]
+
+- Signed Neuron with Memory: Towards Simple, Accurate and High-Efficient ANN-SNN Conversion [[paper](https://www.ijcai.org/proceedings/2022/347)]
 
 
 ## AAAI-2022
