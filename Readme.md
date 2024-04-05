@@ -2,11 +2,13 @@
 This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com/AXYZdong/awesome-snn-conference-paper).
 
 - [2024](#2024)
+  - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
 - [2023](#2023)
   - [NeurIPS](#neurips-2023)
   - [CVPR](#cvpr-2023)
+  - [ICLR](#iclr-2023)
   - [ICCV](#iccv-2023)
   - [ICML](#icml-2023)
   - [IJCAI](#ijcai-2023)
@@ -15,6 +17,7 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - [2022](#2022)
   - [NeurIPS](#neurips-2022)
   - [CVPR](#cvpr-2022)
+  - [ICLR](#iclr-2022)
   - [ECCV](#eccv-2022)
   - [ICML](#icml-2022)
   - [IJCAI](#ijcai-2022)
@@ -23,6 +26,7 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - [2021](#2021)
   - [NeurIPS](#neurips-2021)
   - [CVPR](#cvpr-2021)
+  - [ICLR](#iclr-2021)
   - [ICCV](#iccv-2021)
   - [ICML](#icml-2021)
   - [IJCAI](#ijcai-2021)
@@ -31,6 +35,7 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - [2020](#2020)
   - [NeurIPS](#neurips-2020)
   - [CVPR](#cvpr-2020)
+  - [ICLR](#iclr-2020)
   - [ECCV](#eccv-2020)
   - [ICML](#icml-2020)
   - [IJCAI](#ijcai-2020)
@@ -44,6 +49,7 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 - [2018](#2018)
   - [NeurIPS](#neurips-2018)
+  - [ICLR](#iclr-2018)
   - [ICML](#icml-2018)
   - [IJCAI](#ijcai-2018)
   - [AAAI](#aaai-2018)
@@ -52,6 +58,42 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 
 # 2024
+
+
+## ICLR-2024
+
+
+- Can we get the best of both Binary Neural Networks and Spiking Neural Networks for Efficient Computer Vision? [[paper](https://iclr.cc/virtual/2024/poster/17942)] [[openreview](https://openreview.net/forum?id=lGUyAuuTYZ)]
+
+- LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units [[paper](https://iclr.cc/virtual/2024/poster/17828)] [[arxiv](https://arxiv.org/abs/2402.04882)] [[paper with code](https://paperswithcode.com/paper/lmuformer-low-complexity-yet-powerful-spiking)] [[code](https://github.com/zeyuliu1037/lmuformer)] [[openreview](https://openreview.net/forum?id=oEF7qExD9F)]
+
+- Threaten Spiking Neural Networks through Combining Rate and Temporal Information [[paper](https://iclr.cc/virtual/2024/poster/17437)] [[openreview](https://openreview.net/forum?id=xv8iGxENyI)]
+
+- TAB: Temporal Accumulated Batch Normalization in Spiking Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/17995)] [[openreview](https://openreview.net/forum?id=k1wlmtPGLq)]
+
+- Certified Adversarial Robustness for Rate Encoded Spiking Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/19423)] [[openreview](https://openreview.net/forum?id=5bNYf0CqxY)]
+
+- Sparse Spiking Neural Network: Exploiting Heterogeneity in Timescales for Pruning Recurrent SNN [[paper](https://iclr.cc/virtual/2024/poster/19606)] [[arxiv](https://arxiv.org/abs/2403.03409)] [[paper with code](https://paperswithcode.com/paper/sparse-spiking-neural-network-exploiting)] [[openreview](https://openreview.net/forum?id=0jsfesDZDq)]
+
+- Bayesian Bi-clustering of Neural Spiking Activity with Latent Structures [[paper](https://iclr.cc/virtual/2024/poster/18391)] [[arxiv](https://arxiv.org/abs/2309.02213)] [[openreview](https://openreview.net/forum?id=ZYm1Ql6udy)]
+
+- Spatio-Temporal Approximation: A Training-Free SNN Conversion for Transformers [[paper](https://iclr.cc/virtual/2024/poster/18442)] [[openreview](https://openreview.net/forum?id=XrunSYwoLr)]
+
+- Adaptive deep spiking neural network with global-local learning via balanced excitatory and inhibitory mechanism [[paper](https://iclr.cc/virtual/2024/poster/17478)] [[openreview](https://openreview.net/forum?id=wpnlc2ONu0)]
+
+- Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings [[paper](https://iclr.cc/virtual/2024/poster/19447)] [[arxiv](https://arxiv.org/abs/2306.17670)] [[paper with code](https://paperswithcode.com/paper/learning-delays-in-spiking-neural-networks)] [[code](https://github.com/thvnvtos/snn-delays)] [[openreview](https://openreview.net/forum?id=4r2ybzJnmN)]
+
+- Online Stabilization of Spiking Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/19180)] [[openreview](https://openreview.net/forum?id=CIj1CVbkpr)]
+
+- Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips [[paper](https://iclr.cc/virtual/2024/poster/19587)] [[openreview](https://openreview.net/forum?id=1SIBN5Xyw7)]
+
+- A Progressive Training Framework for Spiking Neural Networks with Learnable Multi-hierarchical Model [[paper](https://iclr.cc/virtual/2024/poster/18160)] [[openreview](https://openreview.net/forum?id=g52tgL8jy6)]
+
+- Towards Energy Efficient Spiking Neural Networks: An Unstructured Pruning Framework [[paper](https://iclr.cc/virtual/2024/poster/18207)] [[openreview](https://openreview.net/forum?id=eoSeaK4QJo)]
+
+- Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/18815)] [[arxiv](https://arxiv.org/abs/2402.11984)] [[paper with code](https://paperswithcode.com/paper/hebbian-learning-based-orthogonal-projection)] [[code](https://github.com/pkuxmq/hlop-snn)] [[openreview](https://openreview.net/forum?id=MeB86edZ1P)]
+
+- A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/18850)] [[arxiv](https://arxiv.org/abs/2305.19306)] [[paper with code](https://paperswithcode.com/paper/a-graph-is-worth-1-bit-spikes-when-graph)] [[code](https://github.com/edisonleeeee/spikegcl)] [[openreview](https://openreview.net/forum?id=LnLySuf1vp)]
 
 
 ## AAAI-2024
@@ -65,17 +107,9 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 - Efficient Spiking Neural Networks with Sparse Selective Activation for Continual Learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27817)]
 
-- Transient Glimpses: Unveiling Occluded Backgrounds through the Spike Camera [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27820)]
-
-- Joint Demosaicing and Denoising for Spike Camera [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27924)]
-
 - DeblurSR: Event-Based Motion Deblurring under the Spiking Representation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28293)] [[arxiv](https://arxiv.org/abs/2303.08977)] [[paper with code](https://paperswithcode.com/paper/deblursr-event-based-motion-deblurring-under)] [[code](https://github.com/chensong1995/deblursr)]
 
 - Point-to-Spike Residual Learning for Energy-Efficient 3D Point Cloud Classification [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28425)]
-
-- Recognizing Ultra-High-Speed Moving Objects with Bio-Inspired Spike Camera [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28579)]
-
-- Optical Flow for Spike Camera with Hierarchical Spatial-Temporal Spike Fusion [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28581)]
 
 - Finding Visual Saliency in Continuous Spike Stream [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28610)] [[arxiv](https://arxiv.org/abs/2403.06233)] [[paper with code](https://paperswithcode.com/paper/finding-visual-saliency-in-continuous-spike)] [[code](https://github.com/bit-vision/svs)]
 
@@ -106,51 +140,49 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 ## NeurIPS-2023
 
 
-- Evolving Connectivity for Recurrent Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/08f9de0232c0b485110237f6e6cf88f1-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.17650)] [[paper with code](https://paperswithcode.com/paper/evolving-connectivity-for-recurrent-spiking)] [[openview](https://openreview.net/forum?id=30o4ARmfC3)]
+- Evolving Connectivity for Recurrent Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/08f9de0232c0b485110237f6e6cf88f1-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.17650)] [[paper with code](https://paperswithcode.com/paper/evolving-connectivity-for-recurrent-spiking)] [[openreview](https://openreview.net/forum?id=30o4ARmfC3)]
 
-- SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0b443d358a391166d1fbf551fb53de02-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2312.17216)] [[paper with code](https://paperswithcode.com/paper/sparseprop-efficient-event-based-simulation-1)] [[code](https://github.com/rainerengelken/sparseprop)] [[openview](https://openreview.net/forum?id=yzZbwQPkmP)]
+- SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0b443d358a391166d1fbf551fb53de02-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2312.17216)] [[paper with code](https://paperswithcode.com/paper/sparseprop-efficient-event-based-simulation-1)] [[code](https://github.com/rainerengelken/sparseprop)] [[openreview](https://openreview.net/forum?id=yzZbwQPkmP)]
 
-- Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0bcf9cf6ffe26bba3af99e18be0e1d8d-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.12045)] [[paper with code](https://paperswithcode.com/paper/temporal-conditioning-spiking-latent-variable)] [[openview](https://openreview.net/forum?id=V4YeOvsQfu)]
+- Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0bcf9cf6ffe26bba3af99e18be0e1d8d-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.12045)] [[paper with code](https://paperswithcode.com/paper/temporal-conditioning-spiking-latent-variable)] [[openreview](https://openreview.net/forum?id=V4YeOvsQfu)]
 
-- Meta-learning families of plasticity rules in recurrent spiking networks using simulation-based inference [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2bdc2267c3d7d01523e2e17ac0a754f3-Abstract-Conference.html)]
+- Meta-learning families of plasticity rules in recurrent spiking networks using simulation-based inference [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2bdc2267c3d7d01523e2e17ac0a754f3-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=FLFasCFJNo)]
 
-- Learning in the Presence of Low-dimensional Structure: A Spiked Random Matrix Perspective [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/38a1671ab0747b6ffe4d1c6ef117a3a9-Abstract-Conference.html)]
+- Learning in the Presence of Low-dimensional Structure: A Spiked Random Matrix Perspective [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/38a1671ab0747b6ffe4d1c6ef117a3a9-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=HlIAoCHDWW)]
 
-- Mind the spikes: Benign overfitting of kernels and neural networks in fixed dimension [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/421f83663c02cdaec8c3c38337709989-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.14077)] [[paper with code](https://paperswithcode.com/paper/mind-the-spikes-benign-overfitting-of-kernels)] [[code](https://github.com/moritzhaas/mind-the-spikes)] [[openview](https://openreview.net/forum?id=yjYwbZBJyl)]
+- Mind the spikes: Benign overfitting of kernels and neural networks in fixed dimension [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/421f83663c02cdaec8c3c38337709989-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.14077)] [[paper with code](https://paperswithcode.com/paper/mind-the-spikes-benign-overfitting-of-kernels)] [[code](https://github.com/moritzhaas/mind-the-spikes)] [[openreview](https://openreview.net/forum?id=yjYwbZBJyl)]
 
-- EICIL: Joint Excitatory Inhibitory Cycle Iteration Learning for Deep Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/65e876f6a98c6799d0b3145966dd73e2-Abstract-Conference.html)]
+- EICIL: Joint Excitatory Inhibitory Cycle Iteration Learning for Deep Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/65e876f6a98c6799d0b3145966dd73e2-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=OMDgOjdqoZ)]
 
-- Spiking PointNet: Spiking Neural Networks for Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8296d5800a8e68e58ad0472b393be80e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.06232)] [[paper with code](https://paperswithcode.com/paper/spiking-pointnet-spiking-neural-networks-for)] [[code](https://github.com/dayongren/spiking-pointnet)] [[openview](https://openreview.net/forum?id=Ev2XuqvJCy)]
+- Spiking PointNet: Spiking Neural Networks for Point Clouds [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8296d5800a8e68e58ad0472b393be80e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2310.06232)] [[paper with code](https://paperswithcode.com/paper/spiking-pointnet-spiking-neural-networks-for)] [[code](https://github.com/dayongren/spiking-pointnet)] [[openreview](https://openreview.net/forum?id=Ev2XuqvJCy)]
 
-- Unsupervised Optical Flow Estimation with Dynamic Timing Representation for Spike Camera [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/96810b6d4752abe7bfb91f234c51e9e6-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.06003)] [[paper with code](https://paperswithcode.com/paper/unsupervised-optical-flow-estimation-with)] [[openview](https://openreview.net/forum?id=7gbjsgcN5p)]
+- Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2304.12760)] [[paper with code](https://paperswithcode.com/paper/parallel-spiking-neurons-with-high-efficiency)] [[code](https://github.com/fangwei123456/parallel-spiking-neuron)] [[openreview](https://openreview.net/forum?id=rfTFJvTkr2)]
 
-- Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2304.12760)] [[paper with code](https://paperswithcode.com/paper/parallel-spiking-neurons-with-high-efficiency)] [[code](https://github.com/fangwei123456/parallel-spiking-neuron)] [[openview](https://openreview.net/forum?id=rfTFJvTkr2)]
+- Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b8734840bf65c8facd619f5105c6acd0-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2401.03719)] [[paper with code](https://paperswithcode.com/paper/enhancing-adaptive-history-reserving-by-1)] [[openreview](https://openreview.net/forum?id=aGZp61S9Lj)]
 
-- Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b8734840bf65c8facd619f5105c6acd0-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2401.03719)] [[paper with code](https://paperswithcode.com/paper/enhancing-adaptive-history-reserving-by-1)] [[openview](https://openreview.net/forum?id=aGZp61S9Lj)]
+- Addressing the speed-accuracy simulation trade-off for adaptive spiking neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b9f253c2758a323f9d2095f91de9a974-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.11390)] [[paper with code](https://paperswithcode.com/paper/addressing-the-speed-accuracy-simulation)] [[code](https://github.com/webstorms/blocks)] [[openreview](https://openreview.net/forum?id=Ht79ZTVMsn)]
 
-- Addressing the speed-accuracy simulation trade-off for adaptive spiking neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b9f253c2758a323f9d2095f91de9a974-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2311.11390)] [[paper with code](https://paperswithcode.com/paper/addressing-the-speed-accuracy-simulation)] [[code](https://github.com/webstorms/blocks)] [[openview](https://openreview.net/forum?id=Ht79ZTVMsn)]
+- SEENN: Towards Temporal Spiking Early Exit Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c801e68207da477bbc44182b9fac1129-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2304.01230)] [[paper with code](https://paperswithcode.com/paper/seenn-towards-temporal-spiking-early-exit-1)] [[code](https://github.com/intelligent-computing-lab-yale/seenn)] [[openreview](https://openreview.net/forum?id=mbaN0Y0QTw)]
 
-- SEENN: Towards Temporal Spiking Early Exit Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c801e68207da477bbc44182b9fac1129-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2304.01230)] [[paper with code](https://paperswithcode.com/paper/seenn-towards-temporal-spiking-early-exit-1)] [[code](https://github.com/intelligent-computing-lab-yale/seenn)] [[openview](https://openreview.net/forum?id=mbaN0Y0QTw)]
+- Spike-driven Transformer [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ca0f5358dbadda74b3049711887e9ead-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.01694)] [[paper with code](https://paperswithcode.com/paper/spike-driven-transformer-1)] [[code](https://github.com/biclab/spike-driven-transformer)] [[openreview](https://openreview.net/forum?id=9FmolyOHi5)]
 
-- Spike-driven Transformer [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ca0f5358dbadda74b3049711887e9ead-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2402.04798)] [[paper with code](https://paperswithcode.com/paper/spike-driven-transformer-1)] [[code](https://github.com/biclab/spike-driven-transformer)] [[openview](https://openreview.net/forum?id=9FmolyOHi5)]
+- SPQR: Controlling Q-ensemble Independence with Spiked Random Model for Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cdcaf772b4f8eda0385d0930517de64a-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2401.03137)] [[paper with code](https://paperswithcode.com/paper/spqr-controlling-q-ensemble-independence-with-1)] [[code](https://github.com/dohyeoklee/SPQR)] [[openreview](https://openreview.net/forum?id=q0sdoFIfNg)]
 
-- SPQR: Controlling Q-ensemble Independence with Spiked Random Model for Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cdcaf772b4f8eda0385d0930517de64a-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2401.03137)] [[paper with code](https://paperswithcode.com/paper/spqr-controlling-q-ensemble-independence-with-1)] [[code](https://github.com/dohyeoklee/SPQR)] [[openview](https://openreview.net/forum?id=q0sdoFIfNg)]
+- Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cde874a797a8300da693d5e412b7fdc0-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/exploring-loss-functions-for-time-based)] [[code](https://github.com/zhuyaoyu/snn-temporal-training-losses)] [[openreview](https://openreview.net/forum?id=8IvW2k5VeA)]
 
-- Exploring Loss Functions for Time-based Training Strategy in Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cde874a797a8300da693d5e412b7fdc0-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/exploring-loss-functions-for-time-based)] [[code](https://github.com/zhuyaoyu/snn-temporal-training-losses)] [[openview](https://openreview.net/forum?id=8IvW2k5VeA)]
+- Bayesian nonparametric (non-)renewal processes for analyzing neural spike train variability [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d6db7eb6245ec0c6e45f445956994143-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=qlJoo2y3gY)]
 
-- Bayesian nonparametric (non-)renewal processes for analyzing neural spike train variability [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d6db7eb6245ec0c6e45f445956994143-Abstract-Conference.html)]
+- Enhancing Motion Deblurring in High-Speed Scenes with Spike Streams [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dead3d8ff3f9198e38a36a950ebbcafd-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=cAyLnMxiTl)]
 
-- Enhancing Motion Deblurring in High-Speed Scenes with Spike Streams [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dead3d8ff3f9198e38a36a950ebbcafd-Abstract-Conference.html)]
+- Trial matching: capturing variability with data-constrained spiking neural networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ec702dd6e83b2113a43614685a7e2ac6-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.03603)] [[paper with code](https://paperswithcode.com/paper/trial-matching-capturing-variability-with)] [[code](https://github.com/epfl-lcn/pub-sourmpis2023-neurips)] [[openreview](https://openreview.net/forum?id=LAbxkhkjbD)]
 
-- Trial matching: capturing variability with data-constrained spiking neural networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ec702dd6e83b2113a43614685a7e2ac6-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2306.03603)] [[paper with code](https://paperswithcode.com/paper/trial-matching-capturing-variability-with)] [[code](https://github.com/epfl-lcn/pub-sourmpis2023-neurips)] [[openview](https://openreview.net/forum?id=LAbxkhkjbD)]
+- Optimal Algorithms for the Inhomogeneous Spiked Wigner Model [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f0a6b46b0183a62a2db973014e3429f4-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2302.06665)] [[paper with code](https://paperswithcode.com/paper/optimal-algorithms-for-the-inhomogeneous)] [[openreview](https://openreview.net/forum?id=xNUmTRYtV1)]
 
-- Optimal Algorithms for the Inhomogeneous Spiked Wigner Model [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f0a6b46b0183a62a2db973014e3429f4-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2302.06665)] [[paper with code](https://paperswithcode.com/paper/optimal-algorithms-for-the-inhomogeneous)] [[openview](https://openreview.net/forum?id=xNUmTRYtV1)]
+- Bypassing spike sorting: Density-based decoding using spike localization from dense multielectrode probes [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f499387f191d6be56e68966181095878-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/bypassing-spike-sorting-density-based)] [[code](https://github.com/yzhang511/density_decoding)] [[openreview](https://openreview.net/forum?id=tgQRMrsxht)]
 
-- Bypassing spike sorting: Density-based decoding using spike localization from dense multielectrode probes [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f499387f191d6be56e68966181095878-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/bypassing-spike-sorting-density-based)] [[code](https://github.com/yzhang511/density_decoding)] [[openview](https://openreview.net/forum?id=tgQRMrsxht)]
+- Neural Data Transformer 2: Multi-context Pretraining for Neural Spiking Activity [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fe51de4e7baf52e743b679e3bdba7905-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/neural-data-transformer-2-multi-context)] [[code](https://github.com/joel99/context_general_bci)] [[openreview](https://openreview.net/forum?id=CBBtMnlTGq)]
 
-- Neural Data Transformer 2: Multi-context Pretraining for Neural Spiking Activity [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fe51de4e7baf52e743b679e3bdba7905-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/neural-data-transformer-2-multi-context)] [[code](https://github.com/joel99/context_general_bci)] [[openview](https://openreview.net/forum?id=CBBtMnlTGq)]
-
-- Direct Training of SNN using Local Zeroth Order Method [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3c5e64f26a97db6a2b0bbb788236431e-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/direct-training-of-snn-using-local-zeroth)] [[code](https://github.com/bhaskarmukhoty/localzo)] [[openview](https://openreview.net/forum?id=eTF3VDH2b6)]
+- Direct Training of SNN using Local Zeroth Order Method [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3c5e64f26a97db6a2b0bbb788236431e-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/direct-training-of-snn-using-local-zeroth)] [[code](https://github.com/bhaskarmukhoty/localzo)] [[openreview](https://openreview.net/forum?id=eTF3VDH2b6)]
 
 
 ## CVPR-2023
@@ -160,7 +192,17 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 - Constructing Deep Spiking Neural Networks From Artificial Neural Networks With Knowledge Distillation [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Constructing_Deep_Spiking_Neural_Networks_From_Artificial_Neural_Networks_With_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2304.05627)] [[paper with code](https://paperswithcode.com/paper/constructing-deep-spiking-neural-networks)]
 
-- 1000 FPS HDR Video With a Spike-RGB Hybrid Camera [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chang_1000_FPS_HDR_Video_With_a_Spike-RGB_Hybrid_Camera_CVPR_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/1000-fps-hdr-video-with-a-spike-rgb-hybrid)]
+
+## ICLR-2023
+
+
+- Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes [[paper](https://iclr.cc/virtual/2023/poster/12118)] [[arxiv](https://arxiv.org/abs/2302.10685)] [[paper with code](https://paperswithcode.com/paper/bridging-the-gap-between-anns-and-snns-by)] [[code](https://github.com/hzc1208/ann2snn_cos)] [[openreview](https://openreview.net/forum?id=PFbzoWZyZRX)]
+
+- Heterogeneous Neuronal and Synaptic Dynamics for Spike-Efficient Unsupervised Learning: Theory and Design Principles [[paper](https://iclr.cc/virtual/2023/poster/11083)] [[arxiv](https://arxiv.org/abs/2302.11618)] [[paper with code](https://paperswithcode.com/paper/heterogeneous-neuronal-and-synaptic-dynamics)] [[openreview](https://openreview.net/forum?id=QIRtAqoXwj)]
+
+- Spiking Convolutional Neural Networks for Text Classification [[paper](https://iclr.cc/virtual/2023/poster/11720)] [[openreview](https://openreview.net/forum?id=pgU3k7QXuz0)]
+
+- Spikformer: When Spiking Neural Network Meets Transformer [[paper](https://iclr.cc/virtual/2023/poster/12139)] [[arxiv](https://arxiv.org/abs/2209.15425)] [[paper with code](https://paperswithcode.com/paper/spikformer-when-spiking-neural-network-meets)] [[code](https://github.com/zk-zhou/spikformer)] [[openreview](https://openreview.net/forum?id=frE4fUwz_h)]
 
 
 ## ICCV-2023
@@ -194,9 +236,9 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 - Linear Time GPs for Inferring Latent Trajectories from Neural Spike Trains [[paper](https://proceedings.mlr.press/v202/dowling23a.html)] [[arxiv](https://arxiv.org/abs/2306.01802)] [[paper with code](https://paperswithcode.com/paper/linear-time-gps-for-inferring-latent)]
 
-- Adaptive Smoothing Gradient Learning for Spiking Neural Networks [[paper](https://proceedings.mlr.press/v202/wang23j.html)]
+- Adaptive Smoothing Gradient Learning for Spiking Neural Networks [[paper](https://proceedings.mlr.press/v202/wang23j.html)] [[openreview](https://openreview.net/forum?id=s5NL0rQ31zJ)]
 
-- A Unified Optimization Framework of ANN-SNN Conversion: Towards Optimal Mapping from Activation Values to Firing Rates [[paper](https://proceedings.mlr.press/v202/jiang23a.html)]
+- A Unified Optimization Framework of ANN-SNN Conversion: Towards Optimal Mapping from Activation Values to Firing Rates [[paper](https://proceedings.mlr.press/v202/jiang23a.html)] [[openreview](https://openreview.net/forum?id=83piwkGNzOP)]
 
 
 ## IJCAI-2023
@@ -228,11 +270,7 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 - Learning Temporal-Ordered Representation for Spike Streams Based on Discrete Wavelet Transforms [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25085)]
 
-- Self-Supervised Joint Dynamic Scene Reconstruction and Optical Flow Estimation for Spiking Camera [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25108)]
-
 - SVFI: Spiking-Based Video Frame Interpolation for High-Speed Motion [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25393)]
-
-- Learning to Super-resolve Dynamic Scenes for Neuromorphic Spike Camera [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25468)]
 
 - Exploring Temporal Information Dynamics in Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26002)] [[arxiv](https://arxiv.org/abs/2211.14406)] [[paper with code](https://paperswithcode.com/paper/exploring-temporal-information-dynamics-in)] [[code](https://github.com/intelligent-computing-lab-yale/exploring-temporal-information-dynamics-in-spiking-neural-networks)]
 
@@ -246,49 +284,47 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 ## NeurIPS-2022
 
 
-- IM-Loss: Information Maximization Loss for Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/010c5ba0cafc743fece8be02e7adb8dd-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/im-loss-information-maximization-loss-for)] [[openview](https://openreview.net/forum?id=Jw34v_84m2b)]
+- IM-Loss: Information Maximization Loss for Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/010c5ba0cafc743fece8be02e7adb8dd-Abstract-Conference.html)] [[paper with code](https://paperswithcode.com/paper/im-loss-information-maximization-loss-for)] [[openreview](https://openreview.net/forum?id=Jw34v_84m2b)]
 
-- Biologically Inspired Dynamic Thresholds for Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2858f8c8683aaa8c12d487354cf328dc-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.04426)]
+- Biologically Inspired Dynamic Thresholds for Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2858f8c8683aaa8c12d487354cf328dc-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2206.04426)] [[openreview](https://openreview.net/forum?id=1bE24ZURBqm)]
 
-- Emergence of Hierarchical Layers in a Single Sheet of Self-Organizing Spiking Neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2c625366ae28066fcb1827b44517d674-Abstract-Conference.html)]
+- Emergence of Hierarchical Layers in a Single Sheet of Self-Organizing Spiking Neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2c625366ae28066fcb1827b44517d674-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=cPVuuk1lZb3)]
 
-- Learning Optical Flow from Continuous Spike Streams [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/33951c28630e48c441cb59db356f2037-Abstract-Conference.html)]
+- Learning Optical Flow from Continuous Spike Streams [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/33951c28630e48c441cb59db356f2037-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=3vYkhJIty7E)]
 
-- Toward Robust Spiking Neural Network Against Adversarial Perturbation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/42bc612558891859b1b8717051f2c7b0-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.01625)] [[paper with code](https://paperswithcode.com/paper/toward-robust-spiking-neural-network-against)]
+- Toward Robust Spiking Neural Network Against Adversarial Perturbation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/42bc612558891859b1b8717051f2c7b0-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.01625)] [[paper with code](https://paperswithcode.com/paper/toward-robust-spiking-neural-network-against)] [[openreview](https://openreview.net/forum?id=Ncyc0JS7Q16)]
 
-- Training Spiking Neural Networks with Local Tandem Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/523caec7832a47fb19b8471dbfeec471-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.04532)] [[paper with code](https://paperswithcode.com/paper/training-spiking-neural-networks-with-local)] [[code](https://github.com/aries231/local_tandem_learning_rule)]
+- Training Spiking Neural Networks with Local Tandem Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/523caec7832a47fb19b8471dbfeec471-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.04532)] [[paper with code](https://paperswithcode.com/paper/training-spiking-neural-networks-with-local)] [[code](https://github.com/aries231/local_tandem_learning_rule)] [[openreview](https://openreview.net/forum?id=nC8VC8gVGPo)]
 
-- Theoretically Provable Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7abbcb05a5d55157ede410bb718e32d7-Abstract-Conference.html)]
+- Theoretically Provable Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7abbcb05a5d55157ede410bb718e32d7-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=I0CiI7Oyp1E)]
 
-- Bayesian Clustering of Neural Spiking Activity Using a Mixture of Dynamic Poisson Factor Analyzers [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7b39f4512a2e3899edcc59c7501f3cd4-Abstract-Conference.html)]
+- Bayesian Clustering of Neural Spiking Activity Using a Mixture of Dynamic Poisson Factor Analyzers [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7b39f4512a2e3899edcc59c7501f3cd4-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=C0VKVmhlKgb)]
 
-- Biologically plausible solutions for spiking networks with efficient coding [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/820c61a0cd419163ccbd2c33b268816e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.07069)] [[paper with code](https://paperswithcode.com/paper/biologically-plausible-solutions-for-spiking)]
+- Biologically plausible solutions for spiking networks with efficient coding [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/820c61a0cd419163ccbd2c33b268816e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.07069)] [[paper with code](https://paperswithcode.com/paper/biologically-plausible-solutions-for-spiking)] [[openreview](https://openreview.net/forum?id=zdmYnIRXvKS)]
 
-- Online Training Through Time for Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/82846e19e6d42ebfd4ace4361def29ae-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.04195)] [[paper with code](https://paperswithcode.com/paper/online-training-through-time-for-spiking)] [[code](https://github.com/pkuxmq/ottt-snn)]
+- Online Training Through Time for Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/82846e19e6d42ebfd4ace4361def29ae-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.04195)] [[paper with code](https://paperswithcode.com/paper/online-training-through-time-for-spiking)] [[code](https://github.com/pkuxmq/ottt-snn)] [[openreview](https://openreview.net/forum?id=Siv3nHYHheI)]
 
-- Natural gradient enables fast sampling in spiking neural networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8a0fd48510590071e3c129a79b8b8527-Abstract-Conference.html)]
+- Natural gradient enables fast sampling in spiking neural networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/8a0fd48510590071e3c129a79b8b8527-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=Yopob26XjmL)]
 
-- Mesoscopic modeling of hidden spiking neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/953e742190ca02fc8f9f710052f2fead-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.13493)] [[paper with code](https://paperswithcode.com/paper/mesoscopic-modeling-of-hidden-spiking-neurons)] [[code](https://github.com/epfl-lcn/neulvm)]
+- Mesoscopic modeling of hidden spiking neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/953e742190ca02fc8f9f710052f2fead-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2205.13493)] [[paper with code](https://paperswithcode.com/paper/mesoscopic-modeling-of-hidden-spiking-neurons)] [[code](https://github.com/epfl-lcn/neulvm)] [[openreview](https://openreview.net/forum?id=cYPja_wj9d)]
 
-- SNN-RAT: Robustness-enhanced Spiking Neural Network through Regularized Adversarial Training [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9cf904c86cc5f9ac95646c07d2cfa241-Abstract-Conference.html)]
+- SNN-RAT: Robustness-enhanced Spiking Neural Network through Regularized Adversarial Training [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9cf904c86cc5f9ac95646c07d2cfa241-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=xwBdjfKt7_W)]
 
-- Differentiable hierarchical and surrogate gradient search for spiking neural networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9e8c2895db691eaab85af37bddee75aa-Abstract-Conference.html)]
+- Differentiable hierarchical and surrogate gradient search for spiking neural networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9e8c2895db691eaab85af37bddee75aa-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=Lr2Z85cdvB)]
 
-- LTMD: Learning Improvement of Spiking Neural Networks with Learnable Thresholding Neurons and Moderate Dropout [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b5fd95d6b16d3172e307103a97f19e1b-Abstract-Conference.html)]
+- LTMD: Learning Improvement of Spiking Neural Networks with Learnable Thresholding Neurons and Moderate Dropout [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b5fd95d6b16d3172e307103a97f19e1b-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=BbaSRgUHW3)]
 
-- Training Spiking Neural Networks with Event-driven Backpropagation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c4e5f4de1b3cfc838eec6484d0b85378-Abstract-Conference.html)]
+- Training Spiking Neural Networks with Event-driven Backpropagation [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c4e5f4de1b3cfc838eec6484d0b85378-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=d4JmP1T45WE)]
 
-- Dance of SNN and ANN: Solving binding problem by combining spike timing and reconstructive attention [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cba76ef96c4cd625631ab4d33285b045-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2211.06027)] [[paper with code](https://paperswithcode.com/paper/dance-of-snn-and-ann-solving-binding-problem)] [[code](https://github.com/monstersecond/dasbe)]
+- Dance of SNN and ANN: Solving binding problem by combining spike timing and reconstructive attention [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cba76ef96c4cd625631ab4d33285b045-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2211.06027)] [[paper with code](https://paperswithcode.com/paper/dance-of-snn-and-ann-solving-binding-problem)] [[code](https://github.com/monstersecond/dasbe)] [[openreview](https://openreview.net/forum?id=-yiZR4_Xhh)]
 
-- GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cfa8440d500a6a6867157dfd4eaff66e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.13768)] [[paper with code](https://paperswithcode.com/paper/glif-a-unified-gated-leaky-integrate-and-fire)] [[code](https://github.com/ikarosy/gated-lif)]
+- GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cfa8440d500a6a6867157dfd4eaff66e-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2210.13768)] [[paper with code](https://paperswithcode.com/paper/glif-a-unified-gated-leaky-integrate-and-fire)] [[code](https://github.com/ikarosy/gated-lif)] [[openreview](https://openreview.net/forum?id=UmFSx2c4ubT)]
 
-- Temporal Effective Batch Normalization in Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/de2ad3ed44ee4e675b3be42aa0b615d0-Abstract-Conference.html)]
+- Temporal Effective Batch Normalization in Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/de2ad3ed44ee4e675b3be42aa0b615d0-Abstract-Conference.html)] [[openreview](https://openreview.net/forum?id=fLIgyyQiJqz)]
 
 
 ## CVPR-2022
 
-
-- Optical Flow Estimation for Spiking Camera [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Optical_Flow_Estimation_for_Spiking_Camera_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2307.06003)] [[paper with code](https://paperswithcode.com/paper/scflow-optical-flow-estimation-for-spiking)] [[code](https://github.com/acnext/optical-flow-for-spiking-camera)]
 
 - Spiking Transformers for Event-Based Single Object Tracking [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.html)] [[paper with code](https://paperswithcode.com/paper/spiking-transformers-for-event-based-single)]
 
@@ -301,10 +337,20 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - Event-Based Video Reconstruction via Potential-Assisted Spiking Neural Network [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2201.10943)] [[paper with code](https://paperswithcode.com/paper/event-based-video-reconstruction-via)] [[code](https://github.com/LinZhu111/EVSNN)]
 
 
+## ICLR-2022
+
+
+- Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks [[paper](https://iclr.cc/virtual/2022/poster/5899)] [[arxiv](https://arxiv.org/abs/2303.04347)] [[paper with code](https://paperswithcode.com/paper/optimal-ann-snn-conversion-for-high-accuracy-1)] [[code](https://github.com/putshua/SNN_conversion_QCFS)] [[openreview](https://openreview.net/forum?id=7B3IJMM1k_M)]
+
+- Temporal Efficient Training of Spiking Neural Network via Gradient Re-weighting [[paper](https://iclr.cc/virtual/2022/poster/6033)] [[arxiv](https://arxiv.org/abs/2202.11946)] [[paper with code](https://paperswithcode.com/paper/temporal-efficient-training-of-spiking-neural-1)] [[code](https://github.com/gus-lab/temporal_efficient_training)] [[openreview](https://openreview.net/forum?id=_XNtisL32jv)]
+
+- Spike-inspired rank coding for fast and accurate recurrent neural networks [[paper](https://iclr.cc/virtual/2022/poster/6217)] [[arxiv](https://arxiv.org/abs/2110.02865)] [[paper with code](https://paperswithcode.com/paper/spike-inspired-rank-coding-for-fast-and)] [[code](https://github.com/NeuromorphicComputing/RankCoding)] [[openreview](https://openreview.net/forum?id=iMH1e5k7n3L)]
+
+- Sequence Approximation using Feedforward Spiking Neural Network for Spatiotemporal Learning: Theory and Optimization Methods [[paper](https://iclr.cc/virtual/2022/poster/6640)] [[paper with code](https://paperswithcode.com/paper/sequence-approximation-using-feedforward)] [[openreview](https://openreview.net/forum?id=bp-LJ4y_XC)]
+
+
 ## ECCV-2022
 
-
-- Spike Transformer: Monocular Depth Estimation for Spiking Camera [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3125_ECCV_2022_paper.php)]
 
 - Neuromorphic Data Augmentation for Training Spiking Neural Networks [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/601_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2203.06145)] [[paper with code](https://paperswithcode.com/paper/neuromorphic-data-augmentation-for-training)] [[code](https://github.com/intelligent-computing-lab-yale/nda_snn)]
 
@@ -316,7 +362,7 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 - Exploring Lottery Ticket Hypothesis in Spiking Neural Networks [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7345_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2207.01382)] [[paper with code](https://paperswithcode.com/paper/lottery-ticket-hypothesis-for-spiking-neural)] [[code](https://github.com/intelligent-computing-lab-yale/exploring-lottery-ticket-hypothesis-in-snns)]
 
-- Neural Architecture Search for Spiking Neural Networks [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/599_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2402.11322)] [[paper with code](https://paperswithcode.com/paper/neural-architecture-search-for-spiking-neural)] [[code](https://github.com/intelligent-computing-lab-yale/neural-architecture-search-for-spiking-neural-networks)]
+- Neural Architecture Search for Spiking Neural Networks [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/599_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2201.10355)] [[paper with code](https://paperswithcode.com/paper/neural-architecture-search-for-spiking-neural)] [[code](https://github.com/intelligent-computing-lab-yale/neural-architecture-search-for-spiking-neural-networks)]
 
 
 ## ICML-2022
@@ -334,13 +380,11 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 ## IJCAI-2022
 
 
-- Spiking Graph Convolutional Networks [[paper](https://www.ijcai.org/proceedings/2022/338)] [[arxiv](https://arxiv.org/abs/2310.09236)] [[paper with code](https://paperswithcode.com/paper/spiking-graph-convolutional-networks-1)] [[code](https://github.com/zulunzhu/spikinggcn)]
+- Spiking Graph Convolutional Networks [[paper](https://www.ijcai.org/proceedings/2022/338)] [[arxiv](https://arxiv.org/abs/2205.02767)] [[paper with code](https://paperswithcode.com/paper/spiking-graph-convolutional-networks-1)] [[code](https://github.com/zulunzhu/spikinggcn)]
 
 - Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks [[paper](https://www.ijcai.org/proceedings/2022/343)] [[arxiv](https://arxiv.org/abs/2210.06386)] [[paper with code](https://paperswithcode.com/paper/multi-level-firing-with-spiking-ds-resnet)] [[code](https://github.com/langfengq/mlf-dsresnet)]
 
 - Efficient and Accurate Conversion of Spiking Neural Network with Burst Spikes [[paper](https://www.ijcai.org/proceedings/2022/345)] [[arxiv](https://arxiv.org/abs/2204.13271)] [[paper with code](https://paperswithcode.com/paper/efficient-and-accurate-conversion-of-spiking)] [[code](https://github.com/brain-inspired-cognitive-engine/conversion_burst)]
-
-- Self-Supervised Mutual Learning for Dynamic Scene Reconstruction of Spiking Camera [[paper](https://www.ijcai.org/proceedings/2022/396)]
 
 - Recent Advances and New Frontiers in Spiking Neural Networks [[paper](https://www.ijcai.org/proceedings/2022/790)] [[arxiv](https://arxiv.org/abs/2204.07050)] [[paper with code](https://paperswithcode.com/paper/recent-advances-and-new-frontiers-in-spiking)] [[code](https://github.com/thomasaimondy/CogSNN)]
 
@@ -370,33 +414,39 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 ## NeurIPS-2021
 
 
-- Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/39d4b545fb02556829aab1db805021c3-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.01862)] [[paper with code](https://paperswithcode.com/paper/self-supervised-learning-of-event-based)]
+- Self-Supervised Learning of Event-Based Optical Flow with Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/39d4b545fb02556829aab1db805021c3-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.01862)] [[paper with code](https://paperswithcode.com/paper/self-supervised-learning-of-event-based)] [[openreview](https://openreview.net/forum?id=MySjw6CHPa4)]
 
-- Sparse Spiking Gradient Descent [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/61f2585b0ebcf1f532c4d1ec9a7d51aa-Abstract.html)] [[arxiv](https://arxiv.org/abs/2105.08810)] [[paper with code](https://paperswithcode.com/paper/sparse-spiking-gradient-descent)] [[code](https://github.com/npvoid/SparseSpikingBackprop)]
+- Sparse Spiking Gradient Descent [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/61f2585b0ebcf1f532c4d1ec9a7d51aa-Abstract.html)] [[arxiv](https://arxiv.org/abs/2105.08810)] [[paper with code](https://paperswithcode.com/paper/sparse-spiking-gradient-descent)] [[code](https://github.com/npvoid/SparseSpikingBackprop)] [[openreview](https://openreview.net/forum?id=aLE2sEtMNXv)]
 
-- A universal probabilistic spike count model reveals ongoing modulation of neural variability [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/6f5216f8d89b086c18298e043bfe48ed-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/a-universal-probabilistic-spike-count-model)] [[openview](https://openreview.net/forum?id=6ZdqOpE_UVF)]
+- A universal probabilistic spike count model reveals ongoing modulation of neural variability [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/6f5216f8d89b086c18298e043bfe48ed-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/a-universal-probabilistic-spike-count-model)] [[openreview](https://openreview.net/forum?id=6ZdqOpE_UVF)]
 
-- Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/79a49b3e3762632813f9e35f4ba53d6c-Abstract.html)] [[arxiv](https://arxiv.org/abs/2109.14247)] [[paper with code](https://paperswithcode.com/paper/training-feedback-spiking-neural-networks-by)] [[code](https://github.com/pkuxmq/ide-fsnn)]
+- Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/79a49b3e3762632813f9e35f4ba53d6c-Abstract.html)] [[arxiv](https://arxiv.org/abs/2109.14247)] [[paper with code](https://paperswithcode.com/paper/training-feedback-spiking-neural-networks-by)] [[code](https://github.com/pkuxmq/ide-fsnn)] [[openreview](https://openreview.net/forum?id=f2Llmm_z5Sm)]
 
-- Probabilistic Tensor Decomposition of Neural Population Spiking Activity [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/859b755563f548d008f936906a959c8f-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/probabilistic-tensor-decomposition-of-neural)] [[code](https://github.com/hugosou/vbgcp)] [[openview](https://openreview.net/forum?id=1bBF5Zq1YHz)]
+- Probabilistic Tensor Decomposition of Neural Population Spiking Activity [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/859b755563f548d008f936906a959c8f-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/probabilistic-tensor-decomposition-of-neural)] [[code](https://github.com/hugosou/vbgcp)] [[openreview](https://openreview.net/forum?id=1bBF5Zq1YHz)]
 
-- Learning to Time-Decode in Spiking Neural Networks Through the Information Bottleneck [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/8da57fac3313174128cc5f13328d4573-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.01177)] [[paper with code](https://paperswithcode.com/paper/learning-to-time-decode-in-spiking-neural)]
+- Learning to Time-Decode in Spiking Neural Networks Through the Information Bottleneck [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/8da57fac3313174128cc5f13328d4573-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.01177)] [[paper with code](https://paperswithcode.com/paper/learning-to-time-decode-in-spiking-neural)] [[openreview](https://openreview.net/forum?id=Fw0IQgaGlhh)]
 
-- Fitting summary statistics of neural data with a differentiable spiking network simulator [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/9a32ff36c65e8ba30915a21b7bd76506-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.10064)] [[paper with code](https://paperswithcode.com/paper/fitting-summary-statistics-of-neural-data)] [[code](https://github.com/epfl-lcn/pub-bellec-wang-2021-sample-and-measure)]
+- Fitting summary statistics of neural data with a differentiable spiking network simulator [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/9a32ff36c65e8ba30915a21b7bd76506-Abstract.html)] [[arxiv](https://arxiv.org/abs/2106.10064)] [[paper with code](https://paperswithcode.com/paper/fitting-summary-statistics-of-neural-data)] [[code](https://github.com/epfl-lcn/pub-bellec-wang-2021-sample-and-measure)] [[openreview](https://openreview.net/forum?id=9DEAT9pDiN)]
 
-- Deep Residual Learning in Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html)] [[arxiv](https://arxiv.org/abs/2201.07209)] [[paper with code](https://paperswithcode.com/paper/spike-based-residual-blocks)] [[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet)]
+- Deep Residual Learning in Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html)] [[arxiv](https://arxiv.org/abs/2102.04159)] [[paper with code](https://paperswithcode.com/paper/spike-based-residual-blocks)] [[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet)]
 
-- Three-dimensional spike localization and improved motion correction for Neuropixels recordings [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/b950ea26ca12daae142bd74dba4427c8-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/three-dimensional-spike-localization-and)] [[openview](https://openreview.net/forum?id=ohfi44BZPC4)]
+- Three-dimensional spike localization and improved motion correction for Neuropixels recordings [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/b950ea26ca12daae142bd74dba4427c8-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/three-dimensional-spike-localization-and)] [[openreview](https://openreview.net/forum?id=ohfi44BZPC4)]
 
-- Differentiable Spike: Rethinking Gradient-Descent for Training Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/c4ca4238a0b923820dcc509a6f75849b-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/differentiable-spike-rethinking-gradient)] [[openview](https://openreview.net/forum?id=H4e7mBnC9f0)]
+- Differentiable Spike: Rethinking Gradient-Descent for Training Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/c4ca4238a0b923820dcc509a6f75849b-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/differentiable-spike-rethinking-gradient)] [[openreview](https://openreview.net/forum?id=H4e7mBnC9f0)]
 
 
 ## CVPR-2021
 
 
-- High-Speed Image Reconstruction Through Short-Term Plasticity for Spiking Cameras [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zheng_High-Speed_Image_Reconstruction_Through_Short-Term_Plasticity_for_Spiking_Cameras_CVPR_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/high-speed-image-reconstruction-through-short)]
-
 - Spk2ImgNet: Learning To Reconstruct Dynamic Scene From Continuous Spike Stream [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Spk2ImgNet_Learning_To_Reconstruct_Dynamic_Scene_From_Continuous_Spike_Stream_CVPR_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/spk2imgnet-learning-to-reconstruct-dynamic)]
+
+
+## ICLR-2021
+
+
+- Efficient Inference of Flexible Interaction in Spiking-neuron Networks [[paper](https://iclr.cc/virtual/2021/poster/2648)] [[arxiv](https://arxiv.org/abs/2006.12845)] [[paper with code](https://paperswithcode.com/paper/efficient-inference-of-nonparametric)] [[openreview](https://openreview.net/forum?id=aGfU_xziEX8)]
+
+- Optimal Conversion of Conventional Artificial Neural Networks to Spiking Neural Networks [[paper](https://iclr.cc/virtual/2021/poster/2644)] [[arxiv](https://arxiv.org/abs/2103.00476)] [[paper with code](https://paperswithcode.com/paper/optimal-conversion-of-conventional-artificial-1)] [[code](https://github.com/Jackn0/snn_optimal_conversion_pipeline)] [[openreview](https://openreview.net/forum?id=FZ1oTwcXchK)]
 
 
 ## ICCV-2021
@@ -407,8 +457,6 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - DCT-SNN: Using DCT To Distribute Spatial Information Over Time for Low-Latency Spiking Neural Networks [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Garg_DCT-SNN_Using_DCT_To_Distribute_Spatial_Information_Over_Time_for_ICCV_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2010.01795)] [[paper with code](https://paperswithcode.com/paper/dct-snn-using-dct-to-distribute-spatial)]
 
 - Super Resolve Dynamic Scene From Continuous Spike Streams [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Super_Resolve_Dynamic_Scene_From_Continuous_Spike_Streams_ICCV_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/super-resolve-dynamic-scene-from-continuous)]
-
-- NeuSpike-Net: High Speed Video Reconstruction via Bio-Inspired Neuromorphic Cameras [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhu_NeuSpike-Net_High_Speed_Video_Reconstruction_via_Bio-Inspired_Neuromorphic_Cameras_ICCV_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/neuspike-net-high-speed-video-reconstruction)]
 
 - Incorporating Learnable Membrane Time Constant To Enhance Learning of Spiking Neural Networks [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Fang_Incorporating_Learnable_Membrane_Time_Constant_To_Enhance_Learning_of_Spiking_ICCV_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2007.05785)] [[paper with code](https://paperswithcode.com/paper/leaky-integrate-and-fire-spiking-neuron-with)] [[code](https://github.com/fangwei123456/Parametric-Leaky-Integrate-and-Fire-Spiking-Neuron)]
 
@@ -491,14 +539,24 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - RMP-SNN: Residual Membrane Potential Neuron for Enabling Deeper High-Accuracy and Low-Latency Spiking Neural Network [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Han_RMP-SNN_Residual_Membrane_Potential_Neuron_for_Enabling_Deeper_High-Accuracy_and_CVPR_2020_paper.html)] [[arxiv](https://arxiv.org/abs/2003.01811)] [[paper with code](https://paperswithcode.com/paper/rmp-snns-residual-membrane-potential-neuron)] [[code](https://github.com/facebookarchive/fb.resnet.torch)]
 
 
+## ICLR-2020
+
+
+- Spike-based causal inference for weight alignment [[paper](https://iclr.cc/virtual/2020/poster/1906)] [[arxiv](https://arxiv.org/abs/1910.01689)] [[paper with code](https://paperswithcode.com/paper/spike-based-causal-inference-for-weight-1)] [[code](https://github.com/nasiryahm/STDWI)] [[openreview](https://openreview.net/forum?id=rJxWxxSYvB)]
+
+- SpikeGrad: An ANN-equivalent Computation Model for Implementing Backpropagation with Spikes [[paper](https://iclr.cc/virtual/2020/poster/1686)] [[arxiv](https://arxiv.org/abs/1906.00851)] [[paper with code](https://paperswithcode.com/paper/190600851)] [[openreview](https://openreview.net/forum?id=rkxs0yHFPH)]
+
+- Enabling Deep Spiking Neural Networks with Hybrid Conversion and Spike Timing Dependent Backpropagation [[paper](https://iclr.cc/virtual/2020/poster/1526)] [[arxiv](https://arxiv.org/abs/2005.01807)] [[paper with code](https://paperswithcode.com/paper/enabling-deep-spiking-neural-networks-with-1)] [[code](https://github.com/nitin-rathi/hybrid-snn-conversion)] [[openreview](https://openreview.net/forum?id=B1xSperKvH)]
+
+
 ## ECCV-2020
 
 
-- Deep Spiking Neural Network: Energy Efficiency Through Time based Coding  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1103_ECCV_2020_paper.php)]
+- Deep Spiking Neural Network: Energy Efficiency Through Time based Coding [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1103_ECCV_2020_paper.php)]
 
-- Spike-FlowNet: Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6736_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.06696)]
+- Spike-FlowNet: Event-based Optical Flow Estimation with Energy-Efficient Hybrid Neural Networks [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6736_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.06696)]
 
-- Inherent Adversarial Robustness of Deep Spiking Neural Networks: Effects of Discrete Input Encoding and Non-Linear Activations  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6748_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.10399)]
+- Inherent Adversarial Robustness of Deep Spiking Neural Networks: Effects of Discrete Input Encoding and Non-Linear Activations [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6748_ECCV_2020_paper.php)] [[arxiv](https://arxiv.org/abs/2003.10399)]
 
 
 ## ICML-2020
@@ -556,7 +614,7 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 - Bayesian Joint Spike-and-Slab Graphical Lasso [[paper](https://proceedings.mlr.press/v97/li19h.html)] [[arxiv](https://arxiv.org/abs/1805.07051)] [[paper with code](https://paperswithcode.com/paper/bayesian-joint-spike-and-slab-graphical-lasso)] [[code](https://github.com/richardli/SSJGL)]
 
-- Passed & Spurious: Descent Algorithms and Local Minima in Spiked Matrix-Tensor Models [[paper](https://proceedings.mlr.press/v97/mannelli19a.html)] [[arxiv](https://arxiv.org/abs/2403.07004)]
+- Passed & Spurious: Descent Algorithms and Local Minima in Spiked Matrix-Tensor Models [[paper](https://proceedings.mlr.press/v97/mannelli19a.html)] [[arxiv](https://arxiv.org/abs/1902.00139)]
 
 
 ## IJCAI-2019
@@ -585,7 +643,7 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 ## NeurIPS-2018
 
 
-- Gradient Descent for Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/185e65bc40581880c4f2c82958de8cfe-Abstract.html)] [[arxiv](https://arxiv.org/abs/2310.12985)]
+- Gradient Descent for Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/185e65bc40581880c4f2c82958de8cfe-Abstract.html)] [[arxiv](https://arxiv.org/abs/1706.04698)]
 
 - Hybrid Macro/Micro Level Backpropagation for Training Deep Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/3fb04953d95a94367bb133f862402bce-Abstract.html)] [[arxiv](https://arxiv.org/abs/1805.07866)] [[paper with code](https://paperswithcode.com/paper/hybrid-macromicro-level-backpropagation-for)] [[code](https://github.com/jinyyy666/mm-bp-snn)]
 
@@ -594,6 +652,12 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - Long short-term memory and Learning-to-learn in networks of spiking neurons [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/c203d8a151612acf12457e4d67635a95-Abstract.html)] [[arxiv](https://arxiv.org/abs/1803.09574)] [[paper with code](https://paperswithcode.com/paper/long-short-term-memory-and-learning-to-learn)] [[code](https://github.com/IGITUGraz/LSNN-official)]
 
 - Temporal alignment and latent Gaussian process factor inference in population spike trains [[paper](https://proceedings.neurips.cc/paper_files/paper/2018/hash/d1ff1ec86b62cd5f3903ff19c3a326b2-Abstract.html)] [[paper with code](https://paperswithcode.com/paper/temporal-alignment-and-latent-gaussian)]
+
+
+## ICLR-2018
+
+
+- Temporally Efficient Deep Learning with Spikes [[paper](https://openreview.net/forum?id=HkZy-bW0-)] [[arxiv](https://arxiv.org/abs/1706.04159)] [[paper with code](https://paperswithcode.com/paper/temporally-efficient-deep-learning-with)] [[code](https://github.com/petered/pdnn)] [[openreview](https://openreview.net/forum?id=HkZy-bW0-)]
 
 
 ## ICML-2018
@@ -618,4 +682,3 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 - A Plasticity-Centric Approach to Train the Non-Differential Spiking Neural Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11317)]
 
 - Learning Nonlinear Dynamics in Efficient, Balanced Spiking Networks Using Local Plasticity Rules [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11320)]
-
