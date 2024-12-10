@@ -2,6 +2,7 @@
 This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com/AXYZdong/awesome-snn-conference-paper).
 
 - [2024](#2024)
+  - [CVPR](#cvpr-2024)
   - [ICLR](#iclr-2024)
   - [AAAI](#aaai-2024)
 
@@ -60,8 +61,32 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 # 2024
 
 
+## CVPR-2024
+
+
+- Boosting Spike Camera Image Reconstruction from a Perspective of Dealing with Spike Fluctuations [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_Boosting_Spike_Camera_Image_Reconstruction_from_a_Perspective_of_Dealing_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/boosting-spike-camera-image-reconstruction)] [[code](https://github.com/ruizhao26/bsf)]
+
+- Intensity-Robust Autofocus for Spike Camera [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Su_Intensity-Robust_Autofocus_for_Spike_Camera_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/intensity-robust-autofocus-for-spike-camera)] [[code](https://github.com/onetism/saf-code)]
+
+- Towards HDR and HFR Video from Rolling-Mixed-Bit Spikings [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chang_Towards_HDR_and_HFR_Video_from_Rolling-Mixed-Bit_Spikings_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/towards-hdr-and-hfr-video-from-rolling-mixed)]
+
+- Spike-guided Motion Deblurring with Unknown Modal Spatiotemporal Alignment [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Spike-guided_Motion_Deblurring_with_Unknown_Modal_Spatiotemporal_Alignment_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/spike-guided-motion-deblurring-with-unknown)] [[code](https://github.com/leozhangjiyuan/uasdn)]
+
+- SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_SpikeNeRF_Learning_Neural_Radiance_Fields_from_Continuous_Spike_Stream_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.11222)] [[paper with code](https://paperswithcode.com/paper/spikenerf-learning-neural-radiance-fields)] [[code](https://github.com/bit-vision/spikenerf)]
+
+- Super-Resolution Reconstruction from Bayer-Pattern Spike Streams [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Dong_Super-Resolution_Reconstruction_from_Bayer-Pattern_Spike_Streams_CVPR_2024_paper.html)] [[paper with code](https://paperswithcode.com/paper/super-resolution-reconstruction-from-bayer)]
+
+- SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shi_SpikingResformer_Bridging_ResNet_and_Vision_Transformer_in_Spiking_Neural_Networks_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.14302)] [[paper with code](https://paperswithcode.com/paper/spikingresformer-bridging-resnet-and-vision)] [[code](https://github.com/xyshi2000/spikingresformer)]
+
+- SFOD: Spiking Fusion Object Detector [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Fan_SFOD_Spiking_Fusion_Object_Detector_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2403.15192)] [[paper with code](https://paperswithcode.com/paper/sfod-spiking-fusion-object-detector)] [[code](https://github.com/yimeng-fan/SFOD)]
+
+- Are Conventional SNNs Really Efficient? A Perspective from Network Quantization [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shen_Are_Conventional_SNNs_Really_Efficient_A_Perspective_from_Network_Quantization_CVPR_2024_paper.html)] [[arxiv](https://arxiv.org/abs/2311.10802)] [[paper with code](https://paperswithcode.com/paper/are-conventional-snns-really-efficient-a)]
+
+
 ## ICLR-2024
 
+
+- SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition [[paper](https://iclr.cc/virtual/2024/poster/19352)] [[arxiv](https://arxiv.org/abs/2310.07189)] [[paper with code](https://paperswithcode.com/paper/spikepoint-an-efficient-point-based-spiking)] [[openreview](https://openreview.net/forum?id=7etoNfU9uF)]
 
 - Can we get the best of both Binary Neural Networks and Spiking Neural Networks for Efficient Computer Vision? [[paper](https://iclr.cc/virtual/2024/poster/17942)] [[openreview](https://openreview.net/forum?id=lGUyAuuTYZ)]
 
@@ -85,7 +110,7 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 - Online Stabilization of Spiking Neural Networks [[paper](https://iclr.cc/virtual/2024/poster/19180)] [[openreview](https://openreview.net/forum?id=CIj1CVbkpr)]
 
-- Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips [[paper](https://iclr.cc/virtual/2024/poster/19587)] [[openreview](https://openreview.net/forum?id=1SIBN5Xyw7)]
+- Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips [[paper](https://iclr.cc/virtual/2024/poster/19587)] [[arxiv](https://arxiv.org/abs/2404.03663)] [[paper with code](https://paperswithcode.com/paper/spike-driven-transformer-v2-meta-spiking)] [[code](https://github.com/biclab/spike-driven-transformer-v2)] [[openreview](https://openreview.net/forum?id=1SIBN5Xyw7)]
 
 - A Progressive Training Framework for Spiking Neural Networks with Learnable Multi-hierarchical Model [[paper](https://iclr.cc/virtual/2024/poster/18160)] [[openreview](https://openreview.net/forum?id=g52tgL8jy6)]
 
@@ -98,6 +123,14 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 ## AAAI-2024
 
+
+- Transient Glimpses: Unveiling Occluded Backgrounds through the Spike Camera [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27820)]
+
+- Joint Demosaicing and Denoising for Spike Camera [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27924)]
+
+- Recognizing Ultra-High-Speed Moving Objects with Bio-Inspired Spike Camera [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28579)]
+
+- Optical Flow for Spike Camera with Hierarchical Spatial-Temporal Spike Fusion [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28581)]
 
 - Enhancing the Robustness of Spiking Neural Networks with Stochastic Gating Mechanisms [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27804)]
 
@@ -139,6 +172,8 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 ## NeurIPS-2023
 
+
+- Unsupervised Optical Flow Estimation with Dynamic Timing Representation for Spike Camera [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/96810b6d4752abe7bfb91f234c51e9e6-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2307.06003)] [[paper with code](https://paperswithcode.com/paper/unsupervised-optical-flow-estimation-with)] [[openreview](https://openreview.net/forum?id=7gbjsgcN5p)]
 
 - Evolving Connectivity for Recurrent Spiking Neural Networks [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/08f9de0232c0b485110237f6e6cf88f1-Abstract-Conference.html)] [[arxiv](https://arxiv.org/abs/2305.17650)] [[paper with code](https://paperswithcode.com/paper/evolving-connectivity-for-recurrent-spiking)] [[openreview](https://openreview.net/forum?id=30o4ARmfC3)]
 
@@ -187,6 +222,8 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 ## CVPR-2023
 
+
+- 1000 FPS HDR Video With a Spike-RGB Hybrid Camera [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chang_1000_FPS_HDR_Video_With_a_Spike-RGB_Hybrid_Camera_CVPR_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/1000-fps-hdr-video-with-a-spike-rgb-hybrid)]
 
 - Rate Gradient Approximation Attack Threats Deep Spiking Neural Networks [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Bu_Rate_Gradient_Approximation_Attack_Threats_Deep_Spiking_Neural_Networks_CVPR_2023_paper.html)] [[paper with code](https://paperswithcode.com/paper/rate-gradient-approximation-attack-threats)] [[code](https://github.com/putshua/snn_attack_rga)]
 
@@ -260,6 +297,10 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 ## AAAI-2023
 
 
+- Self-Supervised Joint Dynamic Scene Reconstruction and Optical Flow Estimation for Spiking Camera [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25108)]
+
+- Learning to Super-resolve Dynamic Scenes for Neuromorphic Spike Camera [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25468)]
+
 - Reducing ANN-SNN Conversion Error through Residual Membrane Potential [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25071)] [[arxiv](https://arxiv.org/abs/2302.02091)] [[paper with code](https://paperswithcode.com/paper/reducing-ann-snn-conversion-error-through)] [[code](https://github.com/hzc1208/ANN2SNN_SRP)]
 
 - Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25073)] [[arxiv](https://arxiv.org/abs/2303.06060)] [[paper with code](https://paperswithcode.com/paper/deep-spiking-neural-networks-with-high)] [[code](https://github.com/grasshlw/snn-neural-similarity)]
@@ -326,6 +367,8 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 ## CVPR-2022
 
 
+- Optical Flow Estimation for Spiking Camera [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Optical_Flow_Estimation_for_Spiking_Camera_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2110.03916)] [[paper with code](https://paperswithcode.com/paper/scflow-optical-flow-estimation-for-spiking)] [[code](https://github.com/acnext/optical-flow-for-spiking-camera)]
+
 - Spiking Transformers for Event-Based Single Object Tracking [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.html)] [[paper with code](https://paperswithcode.com/paper/spiking-transformers-for-event-based-single)]
 
 - Brain-Inspired Multilayer Perceptron With Spiking Neurons [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] [[arxiv](https://arxiv.org/abs/2203.14679)] [[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] [[code](https://github.com/huawei-noah/Efficient-AI-Backbones)]
@@ -351,6 +394,8 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 ## ECCV-2022
 
+
+- Spike Transformer: Monocular Depth Estimation for Spiking Camera [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3125_ECCV_2022_paper.php)]
 
 - Neuromorphic Data Augmentation for Training Spiking Neural Networks [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/601_ECCV_2022_paper.php)] [[arxiv](https://arxiv.org/abs/2203.06145)] [[paper with code](https://paperswithcode.com/paper/neuromorphic-data-augmentation-for-training)] [[code](https://github.com/intelligent-computing-lab-yale/nda_snn)]
 
@@ -380,6 +425,8 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 ## IJCAI-2022
 
 
+- Self-Supervised Mutual Learning for Dynamic Scene Reconstruction of Spiking Camera [[paper](https://www.ijcai.org/proceedings/2022/396)]
+
 - Spiking Graph Convolutional Networks [[paper](https://www.ijcai.org/proceedings/2022/338)] [[arxiv](https://arxiv.org/abs/2205.02767)] [[paper with code](https://paperswithcode.com/paper/spiking-graph-convolutional-networks-1)] [[code](https://github.com/zulunzhu/spikinggcn)]
 
 - Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks [[paper](https://www.ijcai.org/proceedings/2022/343)] [[arxiv](https://arxiv.org/abs/2210.06386)] [[paper with code](https://paperswithcode.com/paper/multi-level-firing-with-spiking-ds-resnet)] [[code](https://github.com/langfengq/mlf-dsresnet)]
@@ -388,7 +435,7 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 - Recent Advances and New Frontiers in Spiking Neural Networks [[paper](https://www.ijcai.org/proceedings/2022/790)] [[arxiv](https://arxiv.org/abs/2204.07050)] [[paper with code](https://paperswithcode.com/paper/recent-advances-and-new-frontiers-in-spiking)] [[code](https://github.com/thomasaimondy/CogSNN)]
 
-- Signed Neuron with Memory: Towards Simple, Accurate and High-Efficient ANN-SNN Conversion [[paper](https://www.ijcai.org/proceedings/2022/347)]
+- Signed Neuron with Memory: Towards Simple, Accurate and High-Efficient ANN-SNN Conversion [[paper](https://www.ijcai.org/proceedings/2022/347)] [[code](https://github.com/ppppps/ANN2SNNConversion_SNM_NeuronNorm)]
 
 
 ## AAAI-2022
@@ -437,6 +484,7 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 ## CVPR-2021
 
+- High-Speed Image Reconstruction Through Short-Term Plasticity for Spiking Cameras [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zheng_High-Speed_Image_Reconstruction_Through_Short-Term_Plasticity_for_Spiking_Cameras_CVPR_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/high-speed-image-reconstruction-through-short)]
 
 - Spk2ImgNet: Learning To Reconstruct Dynamic Scene From Continuous Spike Stream [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Spk2ImgNet_Learning_To_Reconstruct_Dynamic_Scene_From_Continuous_Spike_Stream_CVPR_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/spk2imgnet-learning-to-reconstruct-dynamic)]
 
@@ -451,6 +499,8 @@ This is the enhanced vision of [Awesome SNN Conference Paper](https://github.com
 
 ## ICCV-2021
 
+
+- NeuSpike-Net: High Speed Video Reconstruction via Bio-Inspired Neuromorphic Cameras [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhu_NeuSpike-Net_High_Speed_Video_Reconstruction_via_Bio-Inspired_Neuromorphic_Cameras_ICCV_2021_paper.html)] [[paper with code](https://paperswithcode.com/paper/neuspike-net-high-speed-video-reconstruction)]
 
 - HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training With Crafted Input Noise [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Kundu_HIRE-SNN_Harnessing_the_Inherent_Robustness_of_Energy-Efficient_Deep_Spiking_Neural_ICCV_2021_paper.html)] [[arxiv](https://arxiv.org/abs/2110.11417)] [[paper with code](https://paperswithcode.com/paper/hire-snn-harnessing-the-inherent-robustness-1)] [[code](https://github.com/ksouvik52/hiresnn2021)]
 
